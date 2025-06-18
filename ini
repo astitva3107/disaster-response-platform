@@ -1,0 +1,5 @@
+SUPABASE_URL=https://your-supabase-url.supabase.co
+SUPABASE_KEY=your-supabase-api-key
+GEMINI_API_KEY=your-gemini-api-key
+MAPBOX_API_KEY=your-mapbox-key
+PORT=5000
